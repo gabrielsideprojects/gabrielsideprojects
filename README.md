@@ -1,16 +1,24 @@
-### Hi there 👋
+<h1 align="center">
+  Hello there 👋, I'm Gabriel Menezes
+</h1>
+<h3 align="center">
+  A person hungry for knowledge :earth_americas:
+</h3>
 
-<!--
-**gabrielsideprojects/gabrielsideprojects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+· Currenctly working as a React Native Developer at [QueroDelivery](https://querodelivery.com/) 💼:purple_heart:.
 
-Here are some ideas to get you started:
+· Graduated in Computer Science 🎓.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+· Looking to contribute for the IT community and help people :blush:.
+
+· Ask me about anything, I'm here to help, if i don't know your question we look for the answer together :smiley:.
+
+· I'm always looking for help to become a better developer, so if you have books, articles and courses tips please send a message 💬. 
+
+· Follow me on [dev.to](https://dev.to/gabrielsideprojects) and [Medium](https://gabrielsideprojects.medium.com/) to know more about programming :computer:.
+
+· Let's have a warm or icy coffee, you can choose :coffee:: [LinkedIn, Instagram, Github, articles](https://linktr.ee/gabrielmenezess) 💙 
+
+· E-mail: gabrielsideprojects@gmail.com ✉️.
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gabrielsideprojects&show_icons=true&theme=radical)
