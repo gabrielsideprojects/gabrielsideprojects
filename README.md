@@ -21,4 +21,4 @@
 
 · E-mail: gabrielsideprojects@gmail.com ✉️.
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gabrielsideprojects&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gabrielsideprojects&show_icons=true&theme=dark)
