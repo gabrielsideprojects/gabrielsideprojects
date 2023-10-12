@@ -5,7 +5,7 @@
   A person hungry for knowledge :earth_americas:
 </h3>
 
-· Currenctly working as a React Native Developer at [Olist](https://olist.com/) 💼:blue_heart:.
+· Currenctly working as a React Native Developer at [Loka](https://www.loka.com/) 💼:blue_heart:.
 
 · Graduated in Computer Science 🎓.
 
